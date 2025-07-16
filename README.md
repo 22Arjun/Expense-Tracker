@@ -26,10 +26,7 @@ This app helps users manage their personal finances by tracking income and expen
 
 ## 📷 Screenshots
 
-> *(Add screenshots in the `screenshots/` folder and update the links below)*
-
-<!-- Example screenshot link -->
-<!-- ![Expense Tracker Screenshot](screenshots/screenshot1.png) -->
+/screenshot.png
 
 ---
 
