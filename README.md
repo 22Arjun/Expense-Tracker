@@ -26,7 +26,7 @@ This app helps users manage their personal finances by tracking income and expen
 
 ## 📷 Screenshots
 
-https://github.com/22Arjun/Expense-Tracker/blob/main/Screenshot.png
+![App Screenshot](screenshot.png)
 
 ---
 
